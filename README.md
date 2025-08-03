@@ -9,7 +9,7 @@ This project explores population trends, growth, and statistics of districts in 
 <img src="Images/Growth Rate Comparison.png" width="500"/>
 
 ## Predicted Population in 2030
-<img src="Images/Predicted Population in 2030.png" width="500"/>
+<img src="Images/Predicted Population in 2035.png" width="500"/>
 
 
 
