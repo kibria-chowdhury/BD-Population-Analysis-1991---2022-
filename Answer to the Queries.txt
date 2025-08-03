@@ -1,0 +1,18 @@
+## Selected Insights & Answers
+
+Here are summarized results from the `bd_city.csv` analysis:
+
+| # | Question                                                                 | Answer / Insight                                                  |
+|---|--------------------------------------------------------------------------|--------------------------------------------------------------------|
+| 1 | **Population Density (2022)** for each district                          | Calculated as `Population_2022 / area_km2`                         |
+| 2 | **District with Highest Population Density**                             | Dhaka — ~10389 people/km²                                         |
+| 3 | **Districts Established After 1984**                                     | 41 districts                                                       |
+| 4 | **Districts Established Before 1984**                                    | 23 districts                                                       |
+| 5 | **Average Population Growth (1991–2022) for Old Districts**              | ~52.64%%                                                            |
+| 6 | **Average Growth by District Type**                                      | Old: 52.64%  •  New: 45.18%                                        |
+| 7 | **Predicted 2030 Population (Linear Regression)**                        | Example: Noakhali	3.7M	4.08M (varies by district)    |
+| 8 | **Population Growth (2011–2022)**                                         | Example: Gazipur → 53.14%,  Dhaka → 21.52%, Noakhali → 15.48%         |
+| 9 | **Projected National Population in 2035 (CAGR)**                         | ~198391942 people                                                |
+| 10| **Correlation Between Area & Population (2022)**                         | Pearson correlation ≈ **0.23**                                     |
+
+
