@@ -21,7 +21,7 @@ This project explores population trends, growth, and statistics of districts in 
   - Population_1991, Population_2001, Population_2011, Population_2022
   - established
 
-## 🧠 Key Questions Answered
+## Key Questions Answered
 
 1. **Population Density in 2022**  
 2. **District with Highest Density**
