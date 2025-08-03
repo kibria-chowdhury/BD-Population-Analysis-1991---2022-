@@ -2,13 +2,18 @@
 
 This project explores population trends, growth, and statistics of districts in Bangladesh using a dataset bd_city.csv. It includes SQL queries for analytical insights and future projections using historical data from 1991 to 2022.
 
+## Correlation Between Area(km2) and Population_2022
+<img src="images/Correlation Between Area(km2) and Population_2022.png" width="500"/>
+
+## Growth Rate Comparison
+<img src="images/Growth Rate Comparison.png" width="500"/>
+
+## Predicted Population in 2030
+<img src="images/Predicted Population in 2030.png" width="500"/>
 
 
 
-
-
-
-## 📊 Dataset
+## Dataset
 
 - bd_city.csv — Contains demographic and geographic data on all districts in Bangladesh.
 - Columns include:
@@ -29,33 +34,33 @@ This project explores population trends, growth, and statistics of districts in 
 9. **Estimated Population in 2035 (CAGR Method)**
 10. **Correlation Between Area and Population**
 
-## 🔧 Tools Used
+## Tools Used
 
 - PostgreSQL
 - Common Table Expressions (CTEs)
 - Aggregate functions (SUM, AVG, MAX, CORR)
 - Linear regression & CAGR projections
 
-## 📂 File Structure
+## File Structure
 
 - bd_city_population_analysis.sql — Main SQL script answering all questions
 - bd_city.csv — Sample dataset (not included here)
 - README.md — This file
 
-## 📌 How to Run
+## How to Run
 
 1. Import bd_city.csv into a PostgreSQL-compatible SQL database.
 2. Run queries from the .sql file in your SQL environment.
 3. Analyze the output per question.
 
-## 📈 Insights
+## Insights
 
 - Older districts tend to show more stable growth.
 - Dhaka remains the most densely populated district.
 - Strong correlation observed between population and area in some regions.
 - 2035 projections help visualize demographic pressure.
 
-## 💡 Author
+## Author
 
 Built by Golam Kibria Chowdhury 
 Data Analysis Portfolio • 2025  
