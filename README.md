@@ -3,13 +3,13 @@
 This project explores population trends, growth, and statistics of districts in Bangladesh using a dataset bd_city.csv. It includes SQL queries for analytical insights and future projections using historical data from 1991 to 2022.
 
 ## Correlation Between Area(km2) and Population_2022
-<img src="images/Correlation Between Area(km2) and Population_2022.png" width="500"/>
+<img src="Images/Correlation Between Area(km2) and Population_2022.png" width="500"/>
 
 ## Growth Rate Comparison
-<img src="images/Growth Rate Comparison.png" width="500"/>
+<img src="Images/Growth Rate Comparison.png" width="500"/>
 
 ## Predicted Population in 2030
-<img src="images/Predicted Population in 2030.png" width="500"/>
+<img src="Images/Predicted Population in 2030.png" width="500"/>
 
 
 
